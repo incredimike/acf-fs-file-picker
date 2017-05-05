@@ -1,8 +1,6 @@
 <?php
 /*
-
-	Plugin Name: ACF: Filesystem Path picker
-
+Plugin Name: Advanced Custom Fields: Filesystem Path Picker Field
 */
 
 // 1. set text domain

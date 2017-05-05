@@ -1,0 +1,14 @@
+{
+	"name": "iamota/acf-fs-path-picker",
+	"description": "",
+	"type": "plugin",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Mike Walker",
+			"email": "mike@incerdimike.com"
+		}
+	],
+	"minimum-stability": "dev",
+	"require": {}
+}
