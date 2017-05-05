@@ -1,8 +1,8 @@
 {
-	"name": "incredimike/acf-fs-path-picker",
+	"name": "incredimike/acf-path-picker",
 	"description": "",
 	"type": "wordpress-plugin",
-	"license": "proprietary",
+	"license": "GPLv2+",
 	"authors": [
 		{
 			"name": "Mike Walker",
