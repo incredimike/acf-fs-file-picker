@@ -1,7 +1,7 @@
 {
-	"name": "iamota/acf-fs-path-picker",
+	"name": "incredimike/acf-fs-path-picker",
 	"description": "",
-	"type": "plugin",
+	"type": "wordpress-plugin",
 	"license": "proprietary",
 	"authors": [
 		{
