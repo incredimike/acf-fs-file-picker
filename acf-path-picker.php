@@ -1,6 +1,6 @@
 <?php
 /**
- * @package   Plugin_Name
+ * @package   ACF_File_Path_Picker
  * @author    Mike Walker <mike@incredimike.com>
  * @license   GPL-2.0+
  * @link      http://example.com
@@ -10,14 +10,14 @@
  * Plugin Name:       Advanced Custom Fields: Filesystem Path Picker Field
  * Plugin URI:        @TODO
  * Description:       Create a field that returns a path to a file.
- * Version:           1.0.0
+ * Version:           1.1.0
  * Author:            Mike Walker
  * Author URI:        http://incredimike.com
- * Text Domain:       acf-fs-path-picker
+ * Text Domain:       acf-path-picker
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path:       /lang
- * GitHub Plugin URI: https://github.com/incredimike/acf-fs-path-picker
+ * GitHub Plugin URI: https://github.com/incredimike/acf-path-picker
  */
 
 // 1. set text domain
@@ -29,7 +29,7 @@
 // $version = 5 and can be ignored until ACF6 exists
 function include_field_types_fs_path_picker( $version ) {
 
-	include_once('acf-fs-path-picker-v5.php');
+	include_once('acf-path-picker-v5.php');
 
 }
 
